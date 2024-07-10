@@ -331,3 +331,141 @@ opacity: 0.7;
      
 }
    /* Inspire-Section-Start  */
+
+    /* Target-Section-Start */
+.target-container{
+    width: 1140px;
+    height: 460px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.target-container .target-text-container{
+    margin: 0 144px;
+}
+.target-container .target-text-container h3{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+text-align: center;
+}
+.target-container .target-text-container p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+}
+.target-card-container{
+  margin-top: 48px;
+  display: flex;
+  gap: 24px;
+}
+    /* HTML Card */
+
+ .html-card{
+    /* width: 284px; */
+    border: 1px solid palevioletred;
+    padding: 40px;
+}
+.target-container .target-card-container .html-card img{
+      margin-bottom: 24px;
+}
+.target-container .target-card-container .html-card h4{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+text-align: left;
+margin-bottom: 8px;
+}
+.target-container .target-card-container .html-card p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+margin-bottom: 24px;
+}
+.target-container .target-card-container .html-card a{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+text-align: left;
+text-decoration-line: underline;
+
+}
+/* CSS Card */
+.css-card{
+    padding: 40px;
+    border: 1px solid gold;
+}
+.target-container .target-card-container .css-card img{
+    margin-bottom: 24px;
+}
+.target-container .target-card-container .css-card h4{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+text-align: left;
+margin-bottom: 8px;
+}
+.target-container .target-card-container .css-card p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+margin-bottom: 24px;
+}
+.target-container .target-card-container .css-card a{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+text-align: left;
+text-decoration-line: underline;
+
+}
+
+/* js-card */
+.js-card{
+    padding: 40px;
+    border: 1px solid gold;
+}
+.target-container .target-card-container .js-card img{
+    margin-bottom: 24px;
+}
+.target-container .target-card-container .js-card h4{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 800;
+text-align: left;
+margin-bottom: 8px;
+}
+.target-container .target-card-container .js-card p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+margin-bottom: 24px;
+}
+.target-container .target-card-container .js-card a{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+text-align: left;
+text-decoration-line: underline;
+
+}
+    /* Target-Section-End */
