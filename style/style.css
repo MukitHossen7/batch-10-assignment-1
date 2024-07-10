@@ -76,8 +76,7 @@ padding: 21px 24px;
 /* Development Section Start  */
 .development-container{
     width: 1140px;
-    height: 1324px; 
-   
+    height: 1412px; 
     margin: 0 auto;
     margin-top: 74px;
     border-radius: 16px;
@@ -85,6 +84,8 @@ padding: 21px 24px;
 }
 .development-area{
     margin: 80px 97px;
+    /* padding-top: 80px; */
+    /* padding-bottom: 80px; */
     
 }
 .development-container .development-text-container h2{
