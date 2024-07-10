@@ -366,9 +366,9 @@ text-align: center;
     /* HTML Card */
 
  .html-card{
-    /* width: 284px; */
-    border: 1px solid palevioletred;
     padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
 }
 .target-container .target-card-container .html-card img{
       margin-bottom: 24px;
@@ -390,7 +390,7 @@ line-height: 26px;
 margin-bottom: 24px;
 }
 .target-container .target-card-container .html-card a{
-    color: rgb(13, 19, 33);
+color: rgb(13, 19, 33);
 font-family: Azeret Mono;
 font-size: 16px;
 font-weight: 700;
@@ -402,7 +402,8 @@ text-decoration-line: underline;
 /* CSS Card */
 .css-card{
     padding: 40px;
-    border: 1px solid gold;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
 }
 .target-container .target-card-container .css-card img{
     margin-bottom: 24px;
@@ -437,7 +438,8 @@ text-decoration-line: underline;
 /* js-card */
 .js-card{
     padding: 40px;
-    border: 1px solid gold;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
 }
 .target-container .target-card-container .js-card img{
     margin-bottom: 24px;
@@ -468,4 +470,9 @@ text-align: left;
 text-decoration-line: underline;
 
 }
-    /* Target-Section-End */
+   /* Target-Section-End */
+
+   /* Support Section Start */
+
+
+   /* Support Section End */
